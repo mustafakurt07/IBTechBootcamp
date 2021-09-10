@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BootcampOdev2</string>
+    <string name="word_test">Kelime Testi</string>
+    <string name="decky_logo">decky_logo</string>
+    <string name="skip">Atla</string>
+    <string name="kelime_text">Kelime testi sizin dil seviyenizi ölçmek içindir.
+        Test sonunda doğru ve yanlışlarınızı görebileceksiniz!</string>
+    <string name="decky_bottom_left_logo">decky_bottom_left_logo</string>
+    <string name="start_now">Şimdi Başla</string>
+    <string name="decky_bottom_logo">decky_bottom_logo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="big_cloud">big_cloud</string>
+    <string name="cloud">cloud</string>
+</resources>
