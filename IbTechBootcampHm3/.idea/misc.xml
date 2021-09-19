@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable-v24/ic_checked.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable-v24/ic_linkedin.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable-v24/ic_profile_bg.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable-v24/ic_profile_pic.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable-v24/ic_splash_bottom_left_logo.xml" value="0.14722222222222223" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/battle_background.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/battle_icon_selector.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/battle_selector.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/bottom_bg.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/bottom_nav_color.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/bottom_navigation_background.xml" value="0.1953125" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/deck_selector.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/decks_icon_selector.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/ic_avatar1.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/ic_battle_crown.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/ic_battle_multi.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/ic_battle_single.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/ic_battle_star.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/ic_battleactive.xml" value="0.1953125" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/ic_battlepassive.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/ic_crown.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/ic_deckactive.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/ic_my_decks_bg.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/ic_my_decks_empty_art.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/ic_rightarrow_black.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/ic_rightarrow_white.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/profile_selector.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/single_play_now.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/drawable/style.xml" value="0.19166666666666668" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/layout/fragment_battle.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/layout/fragment_deck.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/layout/fragment_decky.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/layout/fragment_profil_avatar.xml" value="0.13269927536231885" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/layout/fragment_profile.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/layout/fragment_splash.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/layout/row_avatar.xml" value="0.1585144927536232" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/layout/row_text.xml" value="0.1585144927536232" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/menu/bottom_menu.xml" value="0.1" />
+        <entry key="..\:/AndroidProjeler/IbTechBootcampHm3/app/src/main/res/menu/bottom_menus.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BottomNavigation.ActiveItemTextAppearance" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/sfprodisplay_bold</item>
+        <item name="android:textSize">@dimen/bottom_navigation</item>
+        <item name="android:textColor">@color/bottom_progress_foreground</item>
+    </style>
+
+    <style name="BottomNavigation.InactiveItemTextAppearance" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/sfprodisplay_regular</item>
+        <item name="android:textSize">@dimen/bottom_navigation</item>
+        <item name="android:textColor">@color/grey_text_color</item>
+    </style>
+    <style name="BattleProfileInfoBold" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/battle_profile_info_bold</item>
+        <item name="fontFamily">@font/sfprodisplay_bold</item>
+    </style>
+    <style name="BattleProfileInfoRegulars" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/grey_text_color</item>
+        <item name="android:textSize">@dimen/battle_profile_info_regular</item>
+        <item name="fontFamily">@font/sfprodisplay_regular</item>
+    </style>
+    <style name="BattleProfileInfoLevel" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/battle_profile_info_regular</item>
+        <item name="fontFamily">@font/sfprodisplay_bold</item>
+    </style>
+    <style name="BattleMulti" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/progress_foreground</item>
+        <item name="android:textSize">@dimen/battle_multi_play_text</item>
+        <item name="fontFamily">@font/sfprodisplay_bold</item>
+    </style>
+    <style name="PlayNow" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/battle_profile_info_bold</item>
+        <item name="fontFamily">@font/sfprodisplay_regular</item>
+    </style>
+    <style name="BattleSinglePlay" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/battle_single</item>
+        <item name="android:textSize">@dimen/battle_multi_play_text</item>
+        <item name="fontFamily">@font/sfprodisplay_regular</item>
+    </style>
+    <style name="PlayNowSingle" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/battle_single</item>
+        <item name="android:textSize">@dimen/battle_profile_info_bold</item>
+        <item name="fontFamily">@font/sfprodisplay_regular</item>
+    </style>
+    <style name="WhatIsDecky" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/battle_single</item>
+        <item name="android:textSize">@dimen/battle_profile_info_regular</item>
+        <item name="fontFamily">@font/sfprodisplay_bold</item>
+    </style>
+    <style name="ProfilePageName" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/battle_single</item>
+        <item name="android:textSize">@dimen/empty_state_title</item>
+        <item name="fontFamily">@font/sfprodisplay_bold</item>
+    </style>
+    <style name="GreenAchievements" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/green_text</item>
+        <item name="android:textSize">@dimen/empty_state_title</item>
+        <item name="fontFamily">@font/sfprodisplay_bold</item>
+    </style>
+    <style name="FollowUs" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/battle_single</item>
+        <item name="android:textSize">@dimen/follow_us</item>
+        <item name="fontFamily">@font/sfprodisplay_regular</item>
+    </style>
+    <style name="ChooseAvatar" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/choose_avatar</item>
+        <item name="fontFamily">@font/sfprodisplay_bold</item>
+    </style>
+
+
+
+    <style name="EmptyStateTitle" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/bottom_progress_foreground</item>
+        <item name="android:textSize">@dimen/empty_state_title</item>
+        <item name="fontFamily">@font/sfprodisplay_bold</item>
+    </style>
+
+    <style name="EmptyStateSub" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/grey_text_color</item>
+        <item name="android:textSize">@dimen/battle_profile_info_bold</item>
+        <item name="fontFamily">@font/sfprodisplay_regular</item>
+    </style>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IbTechBootcampHm3</string>
+    <string name="decky_logo">decky_logo</string>
+    <string name="decky_bottom_left_logo">decky_bottom_left_logo</string>
+
+
+    <string name="battle_profile_info_points">Puan</string>
+    <string name="battle_profile_info_amount">700</string>
+    <string name="battle_profile_info_level">Level 15</string>
+    <string name="battle_multi">İki Oyuncu</string>
+    <string name="battle_single">Tek Oyuncu</string>
+    <string name="play_now">Şimdi Oyna</string>
+    <string name="empty_state">Empty State Title</string>
+    <string name="empty_state_subtitle">Empty state sub word</string>
+    <string name="profile">Profile</string>
+    <string name="follow_us">Bizi Takip Edin</string>
+    <string name="decklerim">Decklerim</string>
+    <string name="battle">Battle</string>
+    <string name="what_is_decky">decky nedir?</string>
+    <string name="user_name">John Doe</string>
+    <string name="choose_avatar">Kullanıcı adınızı oluşturun ve size uygun bir avatar seçin</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+
+        android:id="@+id/battleFragment"
+        android:icon="@drawable/ic_battleactive"
+
+        android:title="Battle" />
+
+    <item
+
+        android:id="@+id/deckFragment"
+        android:icon="@drawable/ic_deckpassive"
+        android:title="Decklerim" />
+
+    <item
+
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_profilepassive"
+        android:title="Profile" />
+</menu>
