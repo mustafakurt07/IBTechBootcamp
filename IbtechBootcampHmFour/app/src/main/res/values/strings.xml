@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IbtechBootcampHmFour</string>
+    <string name="day_name_text">Today</string>
+    <string name="no_task_text">Hiç task eklemediniz.</string>
+    <string name="login">Giriş Yapınız</string>
+    <string name="email_text">E-Posta Adresinizi Giriniz</string>
+    <string name="password_text">Şifrenizi Giriniz</string>
+    <string name="new_task">Task Giriniz</string>
+    <string name="add">Add</string>
+    <string name="dissmis">Dismiss</string>
+    <string name="havent_task">Hiç taskınız kalmadı hepsini sildiniz</string>
+</resources>
