@@ -39,9 +39,9 @@ class FavoriteFragment: BaseFragment<FavoriteViewModel, FragmentFavouritesBindin
             object : BaseRecyclerItemClickListener<MovieRoom> {
                 override fun onItemClicked(clickedObject: MovieRoom, id: Int) {
                     val bundle = bundleOf("movieId" to clickedObject.secondaryId)
-                    //findNavController().navigate(
-                       // R.id.action_tabLayoutControllerFragment_to_movieDetailFragment, bundle
-                   // )
+                    findNavController().navigate(
+                        R.id.action_tabLayoutControllerFragment_to_movieDetailFragment, bundle
+                    )
                 }
             })
         dataBinding.FavouriteMoviesRecyclerView.adapter = adapter
