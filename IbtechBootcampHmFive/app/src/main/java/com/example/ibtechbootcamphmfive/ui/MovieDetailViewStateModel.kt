@@ -2,9 +2,6 @@ package com.example.ibtechbootcamphmfive.ui
 
 import com.example.ibtechbootcamphmfive.data.detail.MovieDetails
 
-/**
- * this class is another bridge between model and view
- */
 
 class MovieDetailViewStateModel(private val detail: MovieDetails) {
 

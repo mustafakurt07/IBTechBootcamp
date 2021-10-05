@@ -23,7 +23,6 @@ class MovieListAdapter(private val movieList: ArrayList<MovieResults>) :
 
     companion object {
         private const val MOVIE = 1
-        private const val LOADING = 2
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): RecyclerView.ViewHolder {

@@ -7,10 +7,6 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.ibtechbootcamphmfive.data.detail.Genre
 import com.example.ibtechbootcamphmfive.databinding.MovieDetailCategoryRecyclerItemBinding
 
-/**
- * this class help us to binding category list to movie detail
- */
-
 class MovieDetailCategoryAdapter() :
     RecyclerView.Adapter<MovieDetailCategoryAdapter.CategoryViewHolder>() {
     private var categories: List<Genre> = emptyList()

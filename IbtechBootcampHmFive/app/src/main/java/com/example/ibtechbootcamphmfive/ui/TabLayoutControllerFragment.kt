@@ -22,9 +22,7 @@ class TabLayoutControllerFragment : Fragment() {
         val view = binding.root
 
 
-        /**
-         * Add TabLayout's tab
-         */
+
         val adapter = TabLayoutAdapter(childFragmentManager)
         adapter.addFragment(MovieFragment(), "Movies")
         adapter.addFragment(FavoriteFragment(), "Favourites")
