@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="favouriteMovie"
+            type="com.example.ibtechbootcamphmfive.data.MovieRoom" />
+    </data>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/favouriteMoviesCard"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/favourite_movie_recycler_view_card_height"
+        android:layout_marginHorizontal="@dimen/default_margin_small"
+        android:layout_marginVertical="@dimen/default_margin_xxsmall"
+        app:cardCornerRadius="@dimen/card_view_default_radius_small">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/favouriteMoviesTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/default_margin_xsmall"
+                android:text="@{favouriteMovie.title}"
+                android:textSize="@dimen/default_text_size_medium"
+                app:layout_constraintBottom_toTopOf="@id/favouriteMoviesVoteAverage"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintWidth_percent="0.7" />
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/detailStar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/default_margin_xsmall"
+                android:src="@drawable/ic_rating_star"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/favouriteMoviesTitle" />
+
+            <TextView
+                android:id="@+id/favouriteMoviesVoteAverage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/default_margin_xsmall"
+                android:text="@{String.valueOf(favouriteMovie.voteAverage)}"
+                android:textColor="@color/vote"
+                android:textSize="@dimen/default_text_size_medium"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/detailStar"
+                app:layout_constraintTop_toBottomOf="@id/favouriteMoviesTitle" />
+
+            <androidx.appcompat.widget.AppCompatImageView
+                imageUrl="@{favouriteMovie.posterPath}"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:src="@drawable/ic_launcher_background" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+</layout>
